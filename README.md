@@ -1,2 +1,3 @@
 # CodeMan-s-Game-Store
 This is a Game Store like steam where you can publish your own games thus download them!
+It will be coming in around the corner!
